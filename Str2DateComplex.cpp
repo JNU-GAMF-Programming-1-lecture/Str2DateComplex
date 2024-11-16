@@ -72,5 +72,5 @@ int main()
   else 
     cout << "Invalid date." << endl;
 
-  return 0;
+  return 0; 
 }
